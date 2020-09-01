@@ -1,0 +1,4 @@
+baseURL = "https://yangyuegly.github.io/"
+languageCode = "en-us"
+title = "DATA1050 Hugo Site"
+theme = "ananke"
